@@ -1369,6 +1369,7 @@ When you run `npm test`, Jest will launch in the watch mode. Every time you save
 The watcher includes an interactive command-line interface with the ability to run all tests, or focus on a search pattern. It is designed this way so that you can keep it open and enjoy fast re-runs. You can learn the commands from the “Watch Usage” note that the watcher prints after every run:
 
 ![Jest watch mode](http://facebook.github.io/jest/img/blog/15-watch.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-ui.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-ui?ref=badge_shield)
 
 ### Version Control Integration
 
@@ -2515,3 +2516,7 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-ui.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-ui?ref=badge_large)
